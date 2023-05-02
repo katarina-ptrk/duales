@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background-image: url(su-san-lee-E_eWwM29wfU-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.center {
+    margin-top: 250px;
+
+  text-align: center;
+    color: rgb(236, 236, 236);
+}
