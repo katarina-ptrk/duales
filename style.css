@@ -24,9 +24,12 @@ body {
 .center {
     font-size: 27px;
     font-family: 'Caveat', cursive;
-    margin-top: 170px;
+    margin-top: 160px;
     text-align: center;
     color: rgb(236, 236, 236);
+}
+h4 {
+    margin-top: -19px;
 }
 .icons {
     display: flex;
@@ -38,9 +41,9 @@ body {
     /* background-clip: padding-box; */
     /* text-align: center; */
   }
-  .visible {
+  /* .visible {
     display: inline;
-  }
+  } */
   .hidden {
     display: none;
   }
@@ -108,4 +111,14 @@ body {
     overflow: auto;
     font-size: 13.5px;
     font-family: 'Source Code Pro', monospace;
+    letter-spacing: -0.6px;
+  }
+  .info {
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0.1em;
+    right: 1em;
+    text-align: right;
   }
